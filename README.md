@@ -43,5 +43,9 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 <h2>Screenshots</h2>
+![Screenshot (950)](https://github.com/siddharthgauts/ACADEMIC-CIRCLE-LEARNING-PLATFORM/assets/95357196/eb3417fb-7f54-4407-bae9-2b8bd58f63a8)
+![Screenshot (951)](https://github.com/siddharthgauts/ACADEMIC-CIRCLE-LEARNING-PLATFORM/assets/95357196/867f2371-ebdc-49a6-b49b-7d84f78fe17b)
+![Screenshot (954)](https://github.com/siddharthgauts/ACADEMIC-CIRCLE-LEARNING-PLATFORM/assets/95357196/d3fa3bf2-6b2e-4ee1-af7c-44160453bd13)
+![Screenshot (952)](https://github.com/siddharthgauts/ACADEMIC-CIRCLE-LEARNING-PLATFORM/assets/95357196/d279a518-23ff-4cd3-bc14-948bd8fdc5a3)
 
 
